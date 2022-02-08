@@ -1,6 +1,6 @@
 # Admission for international students
 
-This page is for international students. For Korean students, please refer to [this other page](./korean.html).
+This page is for international students. For Korean students, please refer to [this other page](https://admission.kaist.ac.kr/graduate/).
 
 - [Admission for international students](#admission-for-international-students)
   - [Eligibility](#eligibility)
