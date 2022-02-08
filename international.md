@@ -54,6 +54,7 @@ E-Mail: advanced.adm@kaist.ac.kr
 
 **A. MANDATORY GENERAL FOR KAIST**
 
+0. Document Checklist (downloadable [here](data/checklist.pdf))
 1. Printed application form (see _Part 1_ above)
 2. Statement of Financial Resources (see also [material description](#material-description) below)
 3. Two Recommendation Letters
