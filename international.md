@@ -54,17 +54,17 @@ E-Mail: advanced.adm@kaist.ac.kr
 
 **A. MANDATORY GENERAL FOR KAIST**
 
-0. Document Checklist (downloadable [here](data/checklist.pdf))
-1. Printed application form (see _Part 1_ above)
-2. Statement of Financial Resources (see also [material description](#material-description) below)
-3. Two Recommendation Letters
-4. Certified Degree / Diploma
-5. Certified Transcripts
-6. Certified English Proficiency Test Reports
-7. Curriculum Vitae
-8. Identity documents (applicant's)
-9. Identity documents (parents')
-10. Family Relation Certificate
+1. Document Checklist (downloadable [here](https://www.dropbox.com/s/8g9nm41cu1m5tm8/checklist.pdf?dl=0))
+2. Printed application form (see _Part 1_ above)
+3. Statement of Financial Resources (see also [material description](#material-description) below)
+4. Two Recommendation Letters
+5. Certified Degree / Diploma
+6. Certified Transcripts
+7. Certified English Proficiency Test Reports
+8. Curriculum Vitae
+9. Identity documents (applicant's)
+10. Identity documents (parents')
+11. Family Relation Certificate
 
 **B. MANDATORY FOR INDUSTRIAL DESIGN DEPARTMENT**
 
