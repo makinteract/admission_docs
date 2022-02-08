@@ -1,18 +1,19 @@
-_Admission for international students_
+# Admission for international students
 
 This page is for international students. For Korean students, please refer to [this other page](./korean.html).
 
-- [Eligibility](#eligibility)
-- [For prospective undergraduate students](#for-prospective-undergraduate-students)
-- [For prospective Graduate Students (Master, Master/Ph.D combined, Ph.D. programs)](#for-prospective-graduate-students-master-masterphd-combined-phd-programs)
-  - [Part 1 - Online application](#part-1---online-application)
-  - [Part 2 - Document Submission to be sent physically to the admission office](#part-2---document-submission-to-be-sent-physically-to-the-admission-office)
-- [Material Description](#material-description)
-  - [Statement of Purpose](#statement-of-purpose)
-  - [List of up to 3 possible supervisors](#list-of-up-to-3-possible-supervisors)
-  - [Porfolio of previous work](#porfolio-of-previous-work)
-  - [Statement of Financial Resources](#statement-of-financial-resources)
-  - [More info](#more-info)
+- [Admission for international students](#admission-for-international-students)
+  - [Eligibility](#eligibility)
+  - [For prospective Undergraduate Students](#for-prospective-undergraduate-students)
+  - [For prospective Graduate Students (Master, Master/Ph.D combined, Ph.D. programs)](#for-prospective-graduate-students-master-masterphd-combined-phd-programs)
+    - [Part 1 - Online application](#part-1---online-application)
+    - [Part 2 - Document Submission to be sent physically to the admission office](#part-2---document-submission-to-be-sent-physically-to-the-admission-office)
+  - [Material Description](#material-description)
+    - [Statement of Purpose](#statement-of-purpose)
+    - [List of up to 3 possible supervisors](#list-of-up-to-3-possible-supervisors)
+    - [Porfolio of previous work](#porfolio-of-previous-work)
+    - [Statement of Financial Resources](#statement-of-financial-resources)
+    - [More info](#more-info)
 
 ## Eligibility
 
@@ -22,15 +23,15 @@ This page is for international students. For Korean students, please refer to [t
   Applicants hold or expect to hold a bachelor’s and master’s degree before enrollment at KAIST
 - Applicants are not a citizen of Korea / International applicants of Korean ethnicity needs to satisfy the [following criteria](https://admission.kaist.ac.kr/intl-graduate/Eligibility/).
 
-## For prospective undergraduate students
+## For prospective Undergraduate Students
 
-KAIST undergraduate admission is centralized. All students are scrutinized and admitted directly by the KAIST Admission Office, not the individual departments. Only during the second year of coursework students get to choose the department for their majors.
+KAIST undergraduate admission is centralized. All students are scrutinized and admitted directly by the KAIST Admission Office, not the individual departments. Only during the second year of coursework do students get to choose the department for their majors.
 
 Please visit the [KAIST Admission Office website](https://admission.kaist.ac.kr/intl-undergraduate/) for a detailed description of how to apply to KAIST.
 
 ## For prospective Graduate Students (Master, Master/Ph.D combined, Ph.D. programs)
 
-Prospective graduate students apply directly to the department of interst. The full documentation of the documents to be submitted can be found [here](https://admission.kaist.ac.kr/intl-graduate/required-application/). Make however sure to submit all the documents listed below.
+Prospective graduate students apply directly to the department of interest. The full documentation of the documents to be submitted can be found [here](https://admission.kaist.ac.kr/intl-graduate/required-application/). Make however sure to submit all the documents listed below.
 
 ### Part 1 - Online application
 
@@ -41,7 +42,7 @@ Prospective graduate students apply directly to the department of interst. The f
 
 ### Part 2 - Document Submission to be sent physically to the admission office
 
-The documents listed below should be sent by mail to
+The documents listed below should be sent by mail to:
 
 ```
 Graduate Admission Team, KAIST
@@ -51,7 +52,7 @@ Office: +82-42-350-2352, 2354
 E-Mail: advanced.adm@kaist.ac.kr
 ```
 
-_MANDATORY GENERAL FOR KAIST_
+**A. MANDATORY GENERAL FOR KAIST**
 
 1. Printed application form (see _Part 1_ above)
 2. Statement of Financial Resources (see also [material description](#material-description) below)
@@ -64,12 +65,12 @@ _MANDATORY GENERAL FOR KAIST_
 9. Identity documents (parents')
 10. Family Relation Certificate
 
-_MANDATORY FOR INDUSTRIAL DESIGN DEPARTMNET_
+**B. MANDATORY FOR INDUSTRIAL DESIGN DEPARTMENT**
 
 1. List of up to 3 possible supervisors
-2. Porfolio of previous work (see also [material description](#material-description) below)
+2. Portfolio of previous work (see also [material description](#material-description) below)
 
-_OPTIONAL_
+**C. OPTIONAL**
 
 1. List of Honors and Awards
 2. Employment Certificate
@@ -79,7 +80,7 @@ _OPTIONAL_
 
 ### Statement of Purpose
 
-In the online application you have a chance to write a statements of purpose. Write down a detailed and accurate statement of your purpose and objective in pursuing your study at KAIST.
+In the online application, you have a chance to write a statement of purpose. Write down a detailed and accurate statement of your purpose and objective in pursuing your study at KAIST.
 
 Please try to answer briefly to the following questions
 
@@ -93,7 +94,7 @@ Please try to answer briefly to the following questions
 
 ### List of up to 3 possible supervisors
 
-You should clearly indicate in your application up to 3 faculty members you would like to work with. Once granted acceptance, you will work in one of these professors' labs, so please make sure to visit our [faculty's lab websites](https://id.kaist.ac.kr/index.php?mid=faculty). We also encourage you to contact the professors you would like to work with or lab representatives in advance. This list can be submitted as a separate file, **or** the names of the possible advisors should be inclued in the statement of purpose.
+You should clearly indicate in your application up to 3 faculty members you would like to work with. Once granted acceptance, you will work in one of these professors' labs, so please make sure to visit our [faculty's lab websites](https://id.kaist.ac.kr/index.php?mid=faculty). We also encourage you to contact the professors you would like to work with or lab representatives in advance. This list can be submitted as a separate file, **or** the names of the possible advisors should be included in the statement of purpose.
 
 ### Porfolio of previous work
 
