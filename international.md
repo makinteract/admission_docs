@@ -34,32 +34,14 @@ Prospective graduate students apply directly to the department of interst. The f
 
 ### Part 1 - Online application
 
-- [ ] 1.a) Fill out the [online application](https://apply.kaist.ac.kr/InterGradApply/InterGradApply/Login).
-
-- [ ] 1.b) Print out your online application form for your reference.
-- [ ] 1.c) Application Fee (USD 80 or KRW 80,000)
-- [ ] 1.d) Download the
+- Fill out the [online application](https://apply.kaist.ac.kr/InterGradApply/InterGradApply/Login).
+- The Statement of Purpose (see also [material description](#material-description) below) is part of this online application.
+- Print out your online application form for your reference.
+- Application Fee (USD 80 or KRW 80,000)
 
 ### Part 2 - Document Submission to be sent physically to the admission office
 
-- [ ]
-- [ ] 2.a) Statement of Purpose (see also [material description](#material-description) below)
-- [ ] 2.b) List of up to 3 possible supervisors
-- [ ] 2.c) Porfolio of previous work (see also [material description](#material-description) below)
-- [ ] 2.d) Statement of Financial Resources (see also [material description](#material-description) below)
-- [ ] 2.e) Two Recommendation Letters
-- [ ] 2.f) Certified Degree / Diploma
-- [ ] 2.g) Certified Transcripts
-- [ ] 2.h) Certified English Proficiency Test Reports
-- [ ] 2.i) Curriculum Vitae
-- [ ] 2.j) Country of Citizenship
-- [ ] 2.k) Optional Document
-  1. List of Honors and Awards
-  2. Employment Certificate
-  3.
-  4. School Profile/ Credit Rating System
-
-These documents should be sent to
+The documents listed below should be sent by mail to
 
 ```
 Graduate Admission Team, KAIST
@@ -69,11 +51,35 @@ Office: +82-42-350-2352, 2354
 E-Mail: advanced.adm@kaist.ac.kr
 ```
 
+_MANDATORY GENERAL FOR KAIST_
+
+1. Printed application form (see _Part 1_ above)
+2. Statement of Financial Resources (see also [material description](#material-description) below)
+3. Two Recommendation Letters
+4. Certified Degree / Diploma
+5. Certified Transcripts
+6. Certified English Proficiency Test Reports
+7. Curriculum Vitae
+8. Identity documents (applicant's)
+9. Identity documents (parents')
+10. Family Relation Certificate
+
+_MANDATORY FOR INDUSTRIAL DESIGN DEPARTMNET_
+
+1. List of up to 3 possible supervisors
+2. Porfolio of previous work (see also [material description](#material-description) below)
+
+_OPTIONAL_
+
+1. List of Honors and Awards
+2. Employment Certificate
+3. School Profile/ Credit Rating System
+
 ## Material Description
 
 ### Statement of Purpose
 
-Write down a detailed and accurate statement of your purpose and objective in pursuing your study at KAIST.
+In the online application you have a chance to write a statements of purpose. Write down a detailed and accurate statement of your purpose and objective in pursuing your study at KAIST.
 
 Please try to answer briefly to the following questions
 
